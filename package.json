@@ -1,0 +1,21 @@
+{
+  "name": "retail-app-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Unit tests running...\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavanikanoongo/retail-app-cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pavanikanoongo/retail-app-cicd/issues"
+  },
+  "homepage": "https://github.com/pavanikanoongo/retail-app-cicd#readme"
+}
